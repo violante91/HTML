@@ -1,7 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Freckle+Face&family=Goldman:wght@400;700&family=Kotta+One&family=Orbitron:wght@400..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    background-color: #3B3936;
-    color: #B2BEBF;
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: #1C1C1C;
+    color: #F5F5F5;
 } 
-strong {
-    color: #7fffd4;
+.titulo-destaque {
+    color: #FFD700;
+}
+.apresentacao {
+    margin:7% 18%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.apresentacao__conteudo {
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.apresentacao__conteudo__titulo {
+    font-size: 60px;
+    font-family: "Orbitron", sans-serif;
+    
+}
+.apresentacao__conteudo__texto {
+    font-size: 30px;
+    font-family: "Kotta One", serif;
+}
+
+.apresentacao__links {
+    display: flex;
+    justify-content: center;;
+}
+
+.apresentacao__links__botons {
+    background-color: #FFD700;
+    width: 300px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 30px;
+    font-weight: <weight>;
+    font-family: "Kotta One", serif;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: black;
 }
