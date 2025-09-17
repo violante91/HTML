@@ -14,7 +14,7 @@ a Copa Libertadores da América ao vencer o Atlético Mineiro por 3 a 1, mesmo j
 com um atleta a menos desde o primeiro minuto da partida. Uma vitória histórica que
 celebra a garra, a superação e o talento alvinegro!</p>
 <div class="apresentacao__links">
-    <a class="apresentacao__links__botons" href="https://www.youtube.com/watch?v=edpaMmfiD9w&t=7752s">Veja os melhores momentos da partida</a>
+    <a class="apresentacao__links__botons" href="https://www.youtube.com/watch?v=edpaMmfiD9w&t=7752s">Melhores momentos.</a>
 </div>
 """
 st.markdown(html_content, unsafe_allow_html=True)
