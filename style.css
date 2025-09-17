@@ -32,7 +32,7 @@ body {
     
 }
 .apresentacao__conteudo__texto {
-    font-size: 30px;
+    font-size: 40px;
     font-family: "Kotta One", serif;
 }
 
@@ -46,7 +46,7 @@ body {
     width: 300px;
     text-align: center;
     border-radius: 16px;
-    font-size: 30px;
+    font-size: 10px;
     font-weight: <weight>;
     font-family: "Kotta One", serif;
     padding: 21.5px 0;
